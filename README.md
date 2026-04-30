@@ -1,2 +1,1 @@
-# calcular-notas
-Projeto de calcular média dos alunos.
+matricula de alunos 
